@@ -1,7 +1,5 @@
 # Python Learning Journey
 
-This repository contains my Python practice programs.
-
 ## Topics Covered
 
 - Print Statements
@@ -9,5 +7,4 @@ This repository contains my Python practice programs.
 - Data Types
 - Input and Output
 - Operators
-
-Created while learning Python.
+- Conditional Statements (if, elif, else)
