@@ -1,10 +1,25 @@
 # Python Learning Journey
 
+This repository contains my Python practice programs while learning Python from scratch.
+
 ## Topics Covered
 
 - Print Statements
-- Variables
-- Data Types
 - Input and Output
+- Variables and Data Types
 - Operators
 - Conditional Statements (if, elif, else)
+- Loops (for, while)
+
+## Files
+
+- 01_hello.py
+- 02_input_output.py
+- 03_variables_and_datatypes.py
+- 04_operators.py
+- 05_conditions.py
+- 06_loops.py
+
+## Goal
+
+Build a strong foundation in Python programming and prepare for Data Science and Software Development.
