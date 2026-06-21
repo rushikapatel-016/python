@@ -11,7 +11,10 @@ This repository contains my Python practice programs while learning Python from 
 - Conditional Statements (if, elif, else)
 - Loops (for, while)
 - Functions
-
+- Strings
+  - Slicing
+  - Formatting
+  - String Methods
 ## Files
 
 - 01_hello.py
@@ -21,6 +24,7 @@ This repository contains my Python practice programs while learning Python from 
 - 05_conditions.py
 - 06_loops.py
 - 07_functions.py
+- 08_strings.py
 
 ## Goal
 
