@@ -10,6 +10,7 @@ This repository contains my Python practice programs while learning Python from 
 - Operators
 - Conditional Statements (if, elif, else)
 - Loops (for, while)
+- Functions
 
 ## Files
 
@@ -19,6 +20,7 @@ This repository contains my Python practice programs while learning Python from 
 - 04_operators.py
 - 05_conditions.py
 - 06_loops.py
+- 07_function.py
 
 ## Goal
 
