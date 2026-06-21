@@ -19,8 +19,7 @@ This repository contains my Python practice programs while learning Python from 
   - Indexing
   - append()
   - remove()
-  - sort()
- 
+  - sort() 
 ## Files
 
 - 01_hello.py
