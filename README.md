@@ -15,6 +15,12 @@ This repository contains my Python practice programs while learning Python from 
   - Slicing
   - Formatting
   - String Methods
+- Lists
+  - Indexing
+  - append()
+  - remove()
+  - sort()
+ 
 ## Files
 
 - 01_hello.py
@@ -25,6 +31,7 @@ This repository contains my Python practice programs while learning Python from 
 - 06_loops.py
 - 07_functions.py
 - 08_strings.py
+- 09_lists.py
 
 ## Goal
 
