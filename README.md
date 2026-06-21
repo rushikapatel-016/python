@@ -20,7 +20,7 @@ This repository contains my Python practice programs while learning Python from 
 - 04_operators.py
 - 05_conditions.py
 - 06_loops.py
-- 07_function.py
+- 07_functions.py
 
 ## Goal
 
