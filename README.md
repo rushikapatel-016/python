@@ -19,7 +19,11 @@ This repository contains my Python practice programs while learning Python from 
   - Indexing
   - append()
   - remove()
-  - sort() 
+  - sort()
+- Tuples
+  - Indexing
+  - count()
+  - index()
 ## Files
 
 - 01_hello.py
@@ -31,6 +35,7 @@ This repository contains my Python practice programs while learning Python from 
 - 07_functions.py
 - 08_strings.py
 - 09_lists.py
+- 10_tuples.py
 
 ## Goal
 
