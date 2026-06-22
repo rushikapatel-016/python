@@ -24,6 +24,12 @@ This repository contains my Python practice programs while learning Python from 
   - Indexing
   - count()
   - index()
+- Sets
+  - Unique Values
+  - add()
+  - remove()
+  - len()
+  - Membership Testing
 ## Files
 
 - 01_hello.py
@@ -36,6 +42,7 @@ This repository contains my Python practice programs while learning Python from 
 - 08_strings.py
 - 09_lists.py
 - 10_tuples.py
+- 11_sets.py
 
 ## Goal
 
