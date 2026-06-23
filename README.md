@@ -30,6 +30,16 @@ This repository contains my Python practice programs while learning Python from 
   - remove()
   - len()
   - Membership Testing
+- Dictionaries
+  - Key-Value Pairs
+  - Accessing Values
+  - Adding Data
+  - Updating Data
+  - Removing Data
+  - keys()
+  - values()
+  - items()
+  
 ## Files
 
 - 01_hello.py
@@ -43,6 +53,7 @@ This repository contains my Python practice programs while learning Python from 
 - 09_lists.py
 - 10_tuples.py
 - 11_sets.py
+- 12_dictionaries.py
 
 ## Goal
 
