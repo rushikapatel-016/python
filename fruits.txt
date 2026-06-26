@@ -1,0 +1,6 @@
+with open("fruits.txt", "w") as f:
+    f.write("lichi\nkiwi\nmango\npineapple\napple")
+
+with open("fruits.txt", "r") as f:
+    for line in f:
+        print(line.strip())

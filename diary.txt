@@ -1,0 +1,10 @@
+# First write some data
+with open("diary.txt", "w") as f:
+    f.write("Day 1: Started learning Python\n")
+
+# Later, add more without wiping Day 1
+with open("diary.txt", "a") as f:
+    f.write("Day 2: Learned file handling\n")
+
+with open("diary.txt", "r") as f:
+    print(f.read())

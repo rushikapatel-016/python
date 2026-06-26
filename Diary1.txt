@@ -1,0 +1,5 @@
+with open("diary.txt", "r") as f:
+    lines = f.readlines()  # returns a list
+
+for line in lines:
+    print(line.strip())   # .strip() removes \n

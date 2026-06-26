@@ -1,0 +1,10 @@
+run = input("Enter run number: ")
+
+with open("log.txt", "a") as file:
+    file.write(f"Run {run}: Program ran.\n")
+
+print("Log updated successfully!")
+
+with open("log.txt", "r") as file:
+    print("\nCurrent Log:")
+    print(file.read())
