@@ -39,6 +39,27 @@ This repository contains my Python practice programs while learning Python from 
   - keys()
   - values()
   - items()
+-File Handling
+  - Opening files
+  - Reading from files
+  -  Writing to files
+  -   Appending data to files
+  -    Using `with open()` for automatic file closing
+  -     File modes (`r`, `w`, `a`)
+-Exception Handling
+  - `try`
+  -  `except`
+  -   `else`
+  -    `finally`
+- Handling common exceptions:
+  - `ValueError`
+  - `ZeroDivisionError`
+  - `FileNotFoundError`
+  - `TypeError`
+  - `IndexError`
+  - `KeyError`
+  - `AttributeError`
+  - `ImportError`
   
 ## Files
 
@@ -54,6 +75,8 @@ This repository contains my Python practice programs while learning Python from 
 - 10_tuples.py
 - 11_sets.py
 - 12_dictionaries.py
+- 13_file_handling.py
+- 14_exception_handling.py
 
 ## Goal
 
