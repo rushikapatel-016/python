@@ -60,8 +60,16 @@ This repository contains my Python practice programs while learning Python from 
   - `KeyError`
   - `AttributeError`
   - `ImportError`
--modules and packages
-  
+- Built-in modules
+  - math
+  - random
+  - datetime
+  - os
+- Creating a custom module
+- Importing modules
+- Using functions from modules
+- Menu-driven programs
+ 
 ## Files
 
 - 01_hello.py
@@ -78,6 +86,12 @@ This repository contains my Python practice programs while learning Python from 
 - 12_dictionaries.py
 - 13_file_handling.py
 - 14_exception_handling.py
+- modules and packages 
+  - `calculator.py` - Custom module containing add, subtract, multiply, and divide functions.
+  -  `main.py` - Uses the calculator module to perform arithmetic operations.
+  -   `mytools.py` - Example custom module with simple utility functions.
+  -    `calmain.py` - Demonstrates importing and using the calculator module.
+
 
 ## Goal
 
